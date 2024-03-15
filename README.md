@@ -4,6 +4,7 @@
 Welcome to the Coffee Shop Sales Dashboard for XYZ Coffee, a franchise with three locations in New York City. As a franchise owner, you've collected transactional data from Jan-Jun 2023 to better understand purchase behavior and streamline operations. The objective is to transform the data into a dynamic dashboard that franchise owners can use to identify patterns, trends, and opportunities for the business.
 
 
+![dashboard](https://github.com/PatelJay3878/Coffee-Shop-Sales-Dashboard/assets/73180853/5dc11a7d-83ff-4efc-8aa4-2f02f8f28a93)
 
 
 ## Purpose
